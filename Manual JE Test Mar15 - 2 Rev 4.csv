@@ -1,0 +1,5 @@
+BATCH ID,Company Code,Date,Header (Main) Memo,Line Memo,Account,Amount (Debit) ,Amount (Credit) ,Department,Business (Class) ,Product ,Reversal Date,Defer Entry 
+GSTEST-Mar3-SL,5,3/15/2018,Test Memo Smoke Test,Test Memo Smoke Test,1210,20,0,0,0,0,4/1/2018,
+GSTEST-Mar3-SL,5,3/15/2018,Test Memo Smoke Test,Test Memo Smoke Test,6000,0,24,90,0,0,4/1/2018,
+GSTEST-Mar3-SL,20,3/15/2018,Test Memo Smoke Test,Test Memo Smoke Test,1210,24,0,0,0,0,4/1/2018,
+GSTEST-Mar3-SL,20,3/15/2018,Test Memo Smoke Test,Test Memo Smoke Test,6160,0,20,1,0,0,4/1/2018,

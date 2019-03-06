@@ -1,0 +1,72 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Teoco Saved Search",
+    "note": "",
+    "parameters": {
+        "enabled": false,
+        "execution_timeout": null,
+        "include_external_urls": false,
+        "job_type": "regular",
+        "llfeed_token": "aPh8H0KuG0kVueJr546tQcJE2JDDB1kT",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_parameters": {
+            "SavedSearchId": "321",
+            "pipeline_name": "SUB_SavedSearch"
+        },
+        "pipeline_path": "SavedSearch",
+        "snaplex_path": null
+    },
+    "schedule": {
+        "repeat": {
+            "blackout_dates": [],
+            "by": "minutes",
+            "cron": {
+                "day": "*",
+                "day_of_week": "*",
+                "hour": "*",
+                "minute": "*",
+                "month": "*"
+            },
+            "ends": {
+                "occurrences": null,
+                "when": "never"
+            },
+            "every": 30,
+            "on": {
+                "day": []
+            }
+        },
+        "start_date": "2017-11-06",
+        "start_time": "21:00:00",
+        "time_zone": "CET"
+    },
+    "trigger": {
+        "repeat": {
+            "blackout_dates": [],
+            "by": "minutes",
+            "cron": {
+                "day": "*",
+                "day_of_week": "*",
+                "hour": "*",
+                "minute": "*",
+                "month": "*"
+            },
+            "ends": {
+                "occurrences": null,
+                "when": "never"
+            },
+            "every": 30,
+            "on": {
+                "day": []
+            }
+        },
+        "start_date": "2017-11-06",
+        "start_time": "21:00:00",
+        "time_zone": "CET"
+    },
+    "trigger_type": "ScheduleTrigger"
+}
