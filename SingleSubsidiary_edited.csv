@@ -1,0 +1,17 @@
+Journal Entry_custom:Field1,Entry No.,Subsidiary,Posting Period,Date,Account,Debit,Credit,Memo,Department,CustomClass,Location,Product
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4110,200.53,,Basic Cable Service,00 Balance Sheet and Gross Margin,00 Balance Sheet - SG&A,05 89 WOW Incs Elim Co,00 Balance Sheet - SG&A
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4110,,200.53,Digital Cable Service,00 Balance Sheet and Gross Margin,00 Balance Sheet - SG&A,05 89 WOW Incs Elim Co,00 Balance Sheet - SG&A
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4210,1000,,A La Carte Digital Cable Service,00 Balance Sheet and Gross Margin,00 Balance Sheet - SG&A,05 89 WOW Incs Elim Co,00 Balance Sheet - SG&A
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4220,,1000,Digital Converter Rental,00 Balance Sheet and Gross Margin,00 Balance Sheet - SG&A,05 89 WOW Incs Elim Co,00 Balance Sheet - SG&A
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4230,2000,,PVR Equipment Rental,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,20 HSD
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4232,,2000,HDTV Converter Rental,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,20 HSD
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4233,3000,,HDTV Programming Tier,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,20 HSD
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4240,,3000,Home Box Office,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,20 HSD
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4310,4000.44,,Cinemax,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4320,,4000.44,Showtime,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4330,5000,,Starz,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4340,,5000,Pay Per View Movies,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4350,200,,Pay Per View Movies,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4350, ,200,Data Internet,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4410,1000, ,Data Internet,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
+GS405,GLDS_GS405_5/31/2016,05 89 WOW Incs Elim Co,MAY/2016,5/31/16,4410,,1000,Internet Options - Music,00 Balance Sheet and Gross Margin,10 Residential,05 89 WOW Incs Elim Co,40 Other
